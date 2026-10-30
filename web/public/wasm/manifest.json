@@ -1,0 +1,27 @@
+{
+  "short_name": "Lúmina",
+  "name": "Lúmina - Control Financiero y Simulación",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#030712",
+  "theme_color": "#3B82F6",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Motor de simulación contable-financiera de ultra-baja latencia y panel unificado de activos."
+}
